@@ -1,6 +1,4 @@
 # BizQuest Scraper
-Script that scraped bizquest.com for a client.
-
 Client wanted elements circled in red to be scraped.
 
 ![image](https://github.com/miahj1/bizquest-scraper/assets/84815985/96adc9a2-fcfa-43a6-a264-5492bd1bcf8b)
