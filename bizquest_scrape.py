@@ -100,7 +100,7 @@ while True:
   soup = BeautifulSoup(r.text, 'lxml')
   business_urls = process_urls_on_page(soup)
 
-  for index, business_url in enumerate(business_urls):
+  for business_url in business_urls:
     content_r = requests.get(business_url, headers=headers, timeout=5).text
     list_item_soup = BeautifulSoup(content_r, 'lxml')
     sidebar_dict = sidebar(list_item_soup, business_url)
@@ -108,7 +108,7 @@ while True:
     merged_dict = {**sidebar_dict, **about_dict}
     master_list.append(merged_dict)
 
-  if r.status_code != 200: break;
+  if r.status_code != 200: break
 
   page += 1
   Event().wait(5.0)
