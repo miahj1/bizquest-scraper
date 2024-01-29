@@ -23,9 +23,9 @@ The data scraped from the website consists of information regarding the listing 
 
 The client requested each piece of the data circled in red below.
 
-![image](https://github.com/miahj1/bizquest-scraper/assets/84815985/96adc9a2-fcfa-43a6-a264-5492bd1bcf8b)
-![image](https://github.com/miahj1/bizquest-scraper/assets/84815985/8f7cd8e1-a978-40e3-aa17-e0b29d2f34a2)
-![image](https://github.com/miahj1/bizquest-scraper/assets/84815985/3d653821-b07f-4f88-8470-c36e27e66185)
+<picture><img alt="title of the business for sale listing" src="https://github.com/miahj1/bizquest-scraper/assets/84815985/96adc9a2-fcfa-43a6-a264-5492bd1bcf8b"></picture>
+<picture><img alt="siderbar information of the listing" src="https://github.com/miahj1/bizquest-scraper/assets/84815985/8f7cd8e1-a978-40e3-aa17-e0b29d2f34a2"></picture>
+<picture><img alt="body content" src="https://github.com/miahj1/bizquest-scraper/assets/84815985/3d653821-b07f-4f88-8470-c36e27e66185"></picture>
 
 ## Client Feedback
 <picture><img alt="UpWork Client Feedback" src="https://github.com/miahj1/bizquest-scraper/assets/84815985/45e7ec60-ead5-4872-933a-761e782336c3"></picture><br>
