@@ -27,3 +27,6 @@ The client requested each piece of the data circled in red below.
 ![image](https://github.com/miahj1/bizquest-scraper/assets/84815985/8f7cd8e1-a978-40e3-aa17-e0b29d2f34a2)
 ![image](https://github.com/miahj1/bizquest-scraper/assets/84815985/3d653821-b07f-4f88-8470-c36e27e66185)
 
+## Client Feedback
+<picture><img alt="UpWork Client Feedback" src="https://github.com/miahj1/bizquest-scraper/assets/84815985/45e7ec60-ead5-4872-933a-761e782336c3"></picture><br>
+Access [Jabed's Upwork Profile](https://www.upwork.com/freelancers/~015c02be44f8ce7ceb).
