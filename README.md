@@ -1,7 +1,7 @@
 # BizQuest Scraper
 <div align="center">
     <picture><img width="200px" alt="bizquest logo" src="https://github.com/miahj1/bizquest-scraper/assets/84815985/d165661c-b45e-41b4-b16a-d0d3b664913f"></picture>
-    <div align="center"><a href="https://www.bizquest.com">Homepage</a> | <div align="center"><a href="https://www.bizquest.com/businesses-for-sale/">Businesses for Sale</a></div>
+    <div align="center"><a href="https://www.bizquest.com">Homepage</a> | <a href="https://www.bizquest.com/businesses-for-sale/">Businesses for Sale</a></div>
 </div>
 <br>
 
