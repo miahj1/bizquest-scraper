@@ -5,7 +5,7 @@
 </div>
 <br>
 
-Founded in 1994, BizQuest is the original business-for-sale website connecting business brokers, sellers, and buyers, boasting a vast inventory of businesses for sale, a comprehensive directory of business brokers, and a leading franchise opportunities directory, with millions of annual visits to their desktop and mobile sites, providing easy access for buyers, optimal exposure for brokers through the BrokerWorks Network, efficient marketing solutions for sellers, and a franchise directory for franchisors to connect with qualified entrepreneurs.
+Founded in 1994, BizQuest is the original business-for-sale website connecting business brokers, sellers, and buyers, boasting a vast inventory of businesses for sale, a comprehensive directory of business brokers, and a leading franchise opportunities directory, with millions of annual visits to their desktop and mobile sites.
 
 ## Python Modules
 - beautiful soup 4
