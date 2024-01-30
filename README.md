@@ -29,6 +29,7 @@ The client requested each piece of the data circled in red below.
 
 ## Data Preview
 A short peak into what the collected, organized, and pre-processed data looks like.
+
 <picture><img alt="bizquest data preview" src="https://github.com/miahj1/bizquest-scraper/assets/84815985/d23a9bfa-a23d-44e8-90bb-779727c80e74"></picture>
 
 ## Client Feedback
